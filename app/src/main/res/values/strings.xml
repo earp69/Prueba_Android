@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AD_PruebaFirebase</string>
+    <string name="hint_et_alogin_email">e-mail</string>
+    <string name="hint_et_alogin_pass">Contraseña</string>
+    <string name="btn_alogin_acceder">ACCEDER</string>
+    <string name="btn_alogin_registrar">REGISTRAR</string>
+    <string name="msj_no_hay_datos">Debe introducir todos los datos.</string>
+    <string name="msj_no_accede">El usuario no esta registrado</string>
+    <string name="msj_registrado">Usuario registrado</string>
+    <string name="msj_no_registrado">Usuario no registrado</string>
+    <string name="msj_pass_incorrecto">La contraseña tiene que contener minimo 8 caracteres</string>
+    <string name="btn_desconectar">DESCONECTAR</string>
+    <string name="tv_saludo">Bienvenid@ %1$s</string>
+    <string name="btn_set_value">Prueba SetValue</string>
+    <string name="btn_probar_push">Probar push</string>
+    <string name="btn_update_c">Probar UpdateChildren</string>
+    <string name="btn_set_value_o">Probar SetValue Object</string>
+    <string name="btn_upd_chil_obj">Probar Update Children Objetos</string>
+    <string name="btn_set_value_modif">Probar Modificar SetValue</string>
+    <string name="btn_remove">Probar Remove</string>
+    <string name="btn_prueba_leer">Probar leer</string>
+    <string name="btn_leer_ordenado">Probar leer ordenado</string>
+    <string name="msj_error_lectura">Error de lectura</string>
+    <string name="btn_storage">Prueba Storage</string>
+    <string name="btn_guardar">Guardar fichero</string>
+</resources>
